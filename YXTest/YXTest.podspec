@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "YXTest"
-  s.version      = "0.0.1"
+  s.version      = "1.0.1"
   s.summary      = "这是一个测试用的, 你不要在提示我错误了,OK简直无数个艹."
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/Toxic-YX/YXTest.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/Toxic-YX/YXTest.git", :tag => "1.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
